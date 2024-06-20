@@ -1,4 +1,5 @@
 first line in new file
 2nd line in new file
 3rd line inserted from local
-4th line changed from cloud
+4th line merged
+
